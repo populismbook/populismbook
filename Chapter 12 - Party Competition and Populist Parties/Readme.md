@@ -1,1 +1,1 @@
-Here you find R and Stata code to reproduce the figures.
+Here you find data, R and Stata code to reproduce the figures.
