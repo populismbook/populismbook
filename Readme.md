@@ -10,7 +10,7 @@ Welcome to the online material for "Populism. An Introduction", edited by Robert
 
 ## What You Will Find Here
 
-*Please note: the repository is not complete. We will add more content soon. If you cannot file that is supposed to be here, please contact us.*
+*Please note: the repository is not complete. We will add more content soon. If you cannot find a file that is supposed to be here, please contact us.*
 
 This repository contains additional resources to complement the book, including:
 - Datasets: Downloadable datasets referenced in the chapters for hands-on analysis.
