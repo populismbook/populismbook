@@ -1,3 +1,5 @@
+!(banner.jpg)
+
 # Populism. An Introduction - Online Material Repository
 
 Welcome to the online material for "Populism. An Introduction", edited by Robert A. Huber and Michael Jankowski. This repository hosts supplementary online materials to enhance your understanding of the concepts and themes discussed in the book.
