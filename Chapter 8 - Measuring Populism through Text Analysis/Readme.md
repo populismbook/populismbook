@@ -1,3 +1,3 @@
 # Chapter 8
 
-Lisa Zehnter has created a nice pdf file (see above) with a nice excercise.
+Lisa Zehnter has created a pdf file (see above) with a nice and exciting excercise!
