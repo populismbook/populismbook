@@ -8,6 +8,8 @@ Welcome to the online material for "Populism. An Introduction", edited by Robert
 
 “Populism. An Introduction” provides a comprehensive overview of populism as a political phenomenon, exploring its origins, manifestations, and impacts across different contexts. The book is designed for students, scholars, and anyone interested in gaining a deeper understanding of populist parties, leaders, and voters.
 
+You can buy the book here: https://uk.sagepub.com/en-gb/eur/populism/book286771
+
 ## What You Will Find Here
 
 *Please note: the repository is not complete. We will add more content soon. If you cannot find a file that is supposed to be here, please contact us.*
