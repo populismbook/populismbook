@@ -1,4 +1,4 @@
-!(banner.jpg)
+![Populism. An Introduction](banner.jpg)
 
 # Populism. An Introduction - Online Material Repository
 
